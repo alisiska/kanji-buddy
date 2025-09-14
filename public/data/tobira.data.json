@@ -1,0 +1,722 @@
+[
+  {
+    "character": "島",
+    "translation": {
+      "en": "island",
+      "ru": "остров"
+    },
+    "reading": "しま, shima",
+    "unit": 1,
+    "level": "N4",
+    "id": 1,
+    "remember": false
+  },
+  {
+    "character": "北海道",
+    "translation": {
+      "en": "Hokkaido",
+      "ru": "Хоккайдо"
+    },
+    "reading": "ほっかいどう, hokkaidou",
+    "unit": 1,
+    "level": "N3",
+    "id": 2,
+    "remember": false
+  },
+  {
+    "character": "本州",
+    "translation": {
+      "en": "Honshu",
+      "ru": "Хонсю"
+    },
+    "reading": "ほんしゅう, honshuu",
+    "unit": 1,
+    "level": "N3",
+    "id": 3,
+    "remember": false
+  },
+  {
+    "character": "四国",
+    "translation": {
+      "en": "Shikoku",
+      "ru": "Сикоку"
+    },
+    "reading": "しこく, shikoku",
+    "unit": 1,
+    "level": "N3",
+    "id": 4,
+    "remember": false
+  },
+  {
+    "character": "九州",
+    "translation": {
+      "en": "Kyushu",
+      "ru": "Кюсю"
+    },
+    "reading": "きゅうしゅう, kyuushuu",
+    "unit": 1,
+    "level": "N3",
+    "id": 5,
+    "remember": false
+  },
+  {
+    "character": "都道府県",
+    "translation": {
+      "en": "prefecture (administrative unit)",
+      "ru": "префектура"
+    },
+    "reading": "とどうふけん, todoufuken",
+    "unit": 1,
+    "level": "N2",
+    "id": 6,
+    "remember": false
+  },
+  {
+    "character": "全体",
+    "translation": {
+      "en": "whole, entire",
+      "ru": "целое, весь"
+    },
+    "reading": "ぜんたい, zentai",
+    "unit": 1,
+    "level": "N2",
+    "id": 7,
+    "remember": false
+  },
+  {
+    "character": "25分の1",
+    "translation": {
+      "en": "one twenty-fifth",
+      "ru": "одна двадцать пятая"
+    },
+    "reading": "にじゅうごぶんのいち, nijuu gobun no ichi",
+    "unit": 1,
+    "level": "N3",
+    "id": 8,
+    "remember": false
+  },
+  {
+    "character": "その他",
+    "translation": {
+      "en": "other(s), the rest",
+      "ru": "другие, остальное"
+    },
+    "reading": "そのほか, sono hoka",
+    "unit": 1,
+    "level": "N3",
+    "id": 9,
+    "remember": false
+  },
+  {
+    "character": "伝える",
+    "translation": {
+      "en": "to convey, to report, to communicate",
+      "ru": "передавать, сообщать"
+    },
+    "reading": "つたえる, tsutaeru",
+    "unit": 1,
+    "level": "N3",
+    "id": 10,
+    "remember": false
+  },
+  {
+    "character": "原爆ドーム",
+    "translation": {
+      "en": "Atomic Bomb Dome",
+      "ru": "Купол атомной бомбы"
+    },
+    "reading": "げんばくドーム, genbaku doomu",
+    "unit": 1,
+    "level": "N2",
+    "id": 11,
+    "remember": false
+  },
+  {
+    "character": "広げる",
+    "translation": {
+      "en": "to spread, expand",
+      "ru": "расширять, распространять"
+    },
+    "reading": "ひろげる, hirogeru",
+    "unit": 1,
+    "level": "N3",
+    "id": 12,
+    "remember": false
+  },
+  {
+    "character": "観光",
+    "translation": {
+      "en": "sightseeing, tourism",
+      "ru": "туризм, экскурсия"
+    },
+    "reading": "かんこう, kankou",
+    "unit": 1,
+    "level": "N3",
+    "id": 13,
+    "remember": false
+  },
+  {
+    "character": "目的",
+    "translation": {
+      "en": "purpose, goal",
+      "ru": "цель"
+    },
+    "reading": "もくてき, mokuteki",
+    "unit": 1,
+    "level": "N3",
+    "id": 14,
+    "remember": false
+  },
+  {
+    "character": "楽しむ",
+    "translation": {
+      "en": "to enjoy",
+      "ru": "наслаждаться"
+    },
+    "reading": "たのしむ, tanoshimu",
+    "unit": 1,
+    "level": "N4",
+    "id": 15,
+    "remember": false
+  },
+  {
+    "character": "名所",
+    "translation": {
+      "en": "famous place, sights",
+      "ru": "достопримечательность"
+    },
+    "reading": "めいしょ, meisho",
+    "unit": 1,
+    "level": "N3",
+    "id": 16,
+    "remember": false
+  },
+  {
+    "character": "例えば",
+    "translation": {
+      "en": "for example",
+      "ru": "например"
+    },
+    "reading": "たとえば, tatoeba",
+    "unit": 1,
+    "level": "N4",
+    "id": 17,
+    "remember": false
+  },
+  {
+    "character": "特に",
+    "translation": {
+      "en": "especially, particularly",
+      "ru": "особенно"
+    },
+    "reading": "とくに, tokuni",
+    "unit": 1,
+    "level": "N3",
+    "id": 18,
+    "remember": false
+  },
+  {
+    "character": "非常に",
+    "translation": {
+      "en": "extremely, very",
+      "ru": "чрезвычайно, очень"
+    },
+    "reading": "ひじょうに, hijou ni",
+    "unit": 1,
+    "level": "N3",
+    "id": 19,
+    "remember": false
+  },
+  {
+    "character": "自然",
+    "translation": {
+      "en": "nature",
+      "ru": "природа"
+    },
+    "reading": "しぜん, shizen",
+    "unit": 1,
+    "level": "N4",
+    "id": 20,
+    "remember": false
+  },
+  {
+    "character": "都市",
+    "translation": {
+      "en": "city",
+      "ru": "город"
+    },
+    "reading": "とし, toshi",
+    "unit": 1,
+    "level": "N3",
+    "id": 21,
+    "remember": false
+  },
+  {
+    "character": "地域",
+    "translation": {
+      "en": "region, area",
+      "ru": "регион, район"
+    },
+    "reading": "ちいき, chiiki",
+    "unit": 1,
+    "level": "N3",
+    "id": 22,
+    "remember": false
+  },
+  {
+    "character": "人口",
+    "translation": {
+      "en": "population",
+      "ru": "население"
+    },
+    "reading": "じんこう, jinkou",
+    "unit": 1,
+    "level": "N3",
+    "id": 23,
+    "remember": false
+  },
+  {
+    "character": "少ない",
+    "translation": {
+      "en": "few, little",
+      "ru": "мало, немного"
+    },
+    "reading": "すくない, sukunai",
+    "unit": 1,
+    "level": "N4",
+    "id": 24,
+    "remember": false
+  },
+  {
+    "character": "多い",
+    "translation": {
+      "en": "many, a lot",
+      "ru": "много"
+    },
+    "reading": "おおい, ooi",
+    "unit": 1,
+    "level": "N4",
+    "id": 25,
+    "remember": false
+  },
+  {
+    "character": "面積",
+    "translation": {
+      "en": "area (surface area)",
+      "ru": "площадь"
+    },
+    "reading": "めんせき, menseki",
+    "unit": 1,
+    "level": "N3",
+    "id": 26,
+    "remember": false
+  },
+  {
+    "character": "高い",
+    "translation": {
+      "en": "high, tall, expensive",
+      "ru": "высокий, дорогой"
+    },
+    "reading": "たかい, takai",
+    "unit": 1,
+    "level": "N4",
+    "id": 27,
+    "remember": false
+  },
+  {
+    "character": "低い",
+    "translation": {
+      "en": "low",
+      "ru": "низкий"
+    },
+    "reading": "ひくい, hikui",
+    "unit": 1,
+    "level": "N4",
+    "id": 28,
+    "remember": false
+  },
+  {
+    "character": "気候",
+    "translation": {
+      "en": "climate",
+      "ru": "климат"
+    },
+    "reading": "きこう, kikou",
+    "unit": 1,
+    "level": "N3",
+    "id": 29,
+    "remember": false
+  },
+  {
+    "character": "寒い",
+    "translation": {
+      "en": "cold",
+      "ru": "холодный"
+    },
+    "reading": "さむい, samui",
+    "unit": 1,
+    "level": "N5",
+    "id": 30,
+    "remember": false
+  },
+  {
+    "character": "暑い",
+    "translation": {
+      "en": "hot (weather)",
+      "ru": "жарко"
+    },
+    "reading": "あつい, atsui",
+    "unit": 1,
+    "level": "N5",
+    "id": 31,
+    "remember": false
+  },
+  {
+    "character": "温暖",
+    "translation": {
+      "en": "warm, mild",
+      "ru": "теплый, умеренный"
+    },
+    "reading": "おんだん, ondan",
+    "unit": 1,
+    "level": "N2",
+    "id": 32,
+    "remember": false
+  },
+  {
+    "character": "山",
+    "translation": {
+      "en": "mountain",
+      "ru": "гора"
+    },
+    "reading": "やま, yama",
+    "unit": 1,
+    "level": "N5",
+    "id": 33,
+    "remember": false
+  },
+  {
+    "character": "川",
+    "translation": {
+      "en": "river",
+      "ru": "река"
+    },
+    "reading": "かわ, kawa",
+    "unit": 1,
+    "level": "N5",
+    "id": 34,
+    "remember": false
+  },
+  {
+    "character": "海",
+    "translation": {
+      "en": "sea, ocean",
+      "ru": "море, океан"
+    },
+    "reading": "うみ, umi",
+    "unit": 1,
+    "level": "N5",
+    "id": 35,
+    "remember": false
+  },
+  {
+    "character": "湖",
+    "translation": {
+      "en": "lake",
+      "ru": "озеро"
+    },
+    "reading": "みずうみ, mizuumi",
+    "unit": 1,
+    "level": "N3",
+    "id": 36,
+    "remember": false
+  },
+  {
+    "character": "平野",
+    "translation": {
+      "en": "plain, flat land",
+      "ru": "равнина"
+    },
+    "reading": "へいや, heiya",
+    "unit": 1,
+    "level": "N3",
+    "id": 37,
+    "remember": false
+  },
+  {
+    "character": "人口密度",
+    "translation": {
+      "en": "population density",
+      "ru": "плотность населения"
+    },
+    "reading": "じんこうみつど, jinkou mitsudo",
+    "unit": 1,
+    "level": "N2",
+    "id": 38,
+    "remember": false
+  },
+  {
+    "character": "面白い",
+    "translation": {
+      "en": "interesting, funny",
+      "ru": "интересный, забавный"
+    },
+    "reading": "おもしろい, omoshiroi",
+    "unit": 1,
+    "level": "N5",
+    "id": 39,
+    "remember": false
+  },
+  {
+    "character": "有名",
+    "translation": {
+      "en": "famous",
+      "ru": "известный"
+    },
+    "reading": "ゆうめい, yuumei",
+    "unit": 1,
+    "level": "N4",
+    "id": 40,
+    "remember": false
+  },
+  {
+    "character": "建物",
+    "translation": {
+      "en": "building",
+      "ru": "здание"
+    },
+    "reading": "たてもの, tatemono",
+    "unit": 1,
+    "level": "N4",
+    "id": 41,
+    "remember": false
+  },
+  {
+    "character": "広い",
+    "translation": {
+      "en": "wide, spacious",
+      "ru": "широкий, просторный"
+    },
+    "reading": "ひろい, hiroi",
+    "unit": 1,
+    "level": "N5",
+    "id": 42,
+    "remember": false
+  },
+  {
+    "character": "狭い",
+    "translation": {
+      "en": "narrow, cramped",
+      "ru": "узкий, тесный"
+    },
+    "reading": "せまい, semai",
+    "unit": 1,
+    "level": "N5",
+    "id": 43,
+    "remember": false
+  },
+  {
+    "character": "道路",
+    "translation": {
+      "en": "road, street",
+      "ru": "дорога, улица"
+    },
+    "reading": "どうろ, douro",
+    "unit": 1,
+    "level": "N3",
+    "id": 44,
+    "remember": false
+  },
+  {
+    "character": "交通",
+    "translation": {
+      "en": "traffic, transportation",
+      "ru": "транспорт, движение"
+    },
+    "reading": "こうつう, koutsuu",
+    "unit": 1,
+    "level": "N3",
+    "id": 45,
+    "remember": false
+  },
+  {
+    "character": "便利",
+    "translation": {
+      "en": "convenient",
+      "ru": "удобный"
+    },
+    "reading": "べんり, benri",
+    "unit": 1,
+    "level": "N4",
+    "id": 46,
+    "remember": false
+  },
+  {
+    "character": "不便",
+    "translation": {
+      "en": "inconvenient",
+      "ru": "неудобный"
+    },
+    "reading": "ふべん, fuben",
+    "unit": 1,
+    "level": "N3",
+    "id": 47,
+    "remember": false
+  },
+  {
+    "character": "観光地",
+    "translation": {
+      "en": "tourist spot",
+      "ru": "туристическое место"
+    },
+    "reading": "かんこうち, kankouchi",
+    "unit": 1,
+    "level": "N3",
+    "id": 48,
+    "remember": false
+  },
+  {
+    "character": "温泉",
+    "translation": {
+      "en": "hot spring",
+      "ru": "горячий источник"
+    },
+    "reading": "おんせん, onsen",
+    "unit": 1,
+    "level": "N4",
+    "id": 49,
+    "remember": false
+  },
+  {
+    "character": "祭り",
+    "translation": {
+      "en": "festival",
+      "ru": "фестиваль, праздник"
+    },
+    "reading": "まつり, matsuri",
+    "unit": 1,
+    "level": "N4",
+    "id": 50,
+    "remember": false
+  },
+  {
+    "character": "歴史",
+    "translation": {
+      "en": "history",
+      "ru": "история"
+    },
+    "reading": "れきし, rekishi",
+    "unit": 1,
+    "level": "N3",
+    "id": 51,
+    "remember": false
+  },
+  {
+    "character": "文化",
+    "translation": {
+      "en": "culture",
+      "ru": "культура"
+    },
+    "reading": "ぶんか, bunka",
+    "unit": 1,
+    "level": "N3",
+    "id": 52,
+    "remember": false
+  },
+  {
+    "character": "観光客",
+    "translation": {
+      "en": "tourist",
+      "ru": "турист"
+    },
+    "reading": "かんこうきゃく, kankoukyaku",
+    "unit": 1,
+    "level": "N3",
+    "id": 53,
+    "remember": false
+  },
+  {
+    "character": "多様",
+    "translation": {
+      "en": "variety, diversity",
+      "ru": "разнообразие"
+    },
+    "reading": "たよう, tayou",
+    "unit": 1,
+    "level": "N2",
+    "id": 54,
+    "remember": false
+  },
+  {
+    "character": "自然環境",
+    "translation": {
+      "en": "natural environment",
+      "ru": "природная среда"
+    },
+    "reading": "しぜんかんきょう, shizen kankyou",
+    "unit": 1,
+    "level": "N2",
+    "id": 55,
+    "remember": false
+  },
+  {
+    "character": "観光名所",
+    "translation": {
+      "en": "famous sightseeing spot",
+      "ru": "известная достопримечательность"
+    },
+    "reading": "かんこうめいしょ, kankou meisho",
+    "unit": 1,
+    "level": "N2",
+    "id": 56,
+    "remember": false
+  },
+  {
+    "character": "観光産業",
+    "translation": {
+      "en": "tourism industry",
+      "ru": "туристическая индустрия"
+    },
+    "reading": "かんこうさんぎょう, kankou sangyou",
+    "unit": 1,
+    "level": "N2",
+    "id": 57,
+    "remember": false
+  },
+  {
+    "character": "保護",
+    "translation": {
+      "en": "protection, preservation",
+      "ru": "охрана, защита"
+    },
+    "reading": "ほご, hogo",
+    "unit": 1,
+    "level": "N2",
+    "id": 58,
+    "remember": false
+  },
+  {
+    "character": "世界遺産",
+    "translation": {
+      "en": "World Heritage Site",
+      "ru": "объект Всемирного наследия"
+    },
+    "reading": "せかいいさん, sekai isan",
+    "unit": 1,
+    "level": "N2",
+    "id": 59,
+    "remember": false
+  },
+  {
+    "character": "魅力",
+    "translation": {
+      "en": "charm, attractiveness",
+      "ru": "привлекательность, очарование"
+    },
+    "unit": 1,
+    "level": "N2",
+    "id": 60,
+    "remember": false,
+    "reading": "みりょく, miryoku"
+  }
+]

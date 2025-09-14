@@ -7,6 +7,9 @@ import {
 import { useState } from 'react';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
+import BookPage from './pages/BookPage';
+import KnowledgeBank from './pages/KnowledgeBank';
+import DashboardPage from './pages/DashboardPage';
 
 export default function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(
@@ -37,11 +40,22 @@ export default function App() {
         <Route
           path='/dashboard'
           element={isLoggedIn ? <Dashboard /> : <Navigate to='/login' />}
-        />
+        >
+          <Route path='' element={<DashboardPage />} />
+        </Route>
         <Route
           path='/bank'
           element={isLoggedIn ? <Dashboard /> : <Navigate to='/login' />}
-        />
+        >
+          <Route index element={<KnowledgeBank />} />
+          <Route path='books/:id' element={<BookPage />} />
+        </Route>
+
+        {/* <Route
+          path='/bank/books/:id'
+          element={isLoggedIn ? <BookPage /> : <Navigate to='/login' />}
+        /> */}
+
         <Route
           path='/analytics'
           element={isLoggedIn ? <Dashboard /> : <Navigate to='/login' />}

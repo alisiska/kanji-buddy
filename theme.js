@@ -26,7 +26,6 @@ const tealTheme = createTheme({
     },
   },
   typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
     h6: {
       fontWeight: 600,
     },
